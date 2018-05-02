@@ -1,0 +1,29 @@
+.nav-sidebar {
+    margin: 10px;
+}
+
+.nav-sidebar > li > a {
+    padding: 10px 10px;
+}
+
+.main {
+    padding-top: 0;
+}
+
+.page-header {
+    
+}
+
+.placeholders {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.placeholder {
+    margin-bottom: 15px;
+}
+
+.placeholder img {
+    display: inline;
+    border-radius: 50%;
+}
